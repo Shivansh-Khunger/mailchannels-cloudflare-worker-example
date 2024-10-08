@@ -1,7 +1,7 @@
 {
 	"name": "mailchannels-worker-example",
 	"author": "Shivansh Khunger",
-  "version": "0.0.2",
+  "version": "0.0.3",
 	"scripts": {
 		"dev": "wrangler dev",
 		"deploy": "wrangler deploy --minify"
